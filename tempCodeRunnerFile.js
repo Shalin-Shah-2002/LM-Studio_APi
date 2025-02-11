@@ -1,0 +1,1 @@
+Analyze the users weight 85kg, height 180cm, 23 age, male gender, and fitness goal to calculate their Body Mass Index (BMI) and Basal Metabolic Rate (BMR). Based on these metrics, provide personalized exercise recommendations aligned with their fitness objectives.
